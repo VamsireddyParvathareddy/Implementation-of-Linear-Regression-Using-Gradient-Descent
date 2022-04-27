@@ -15,11 +15,11 @@ To write a program to implement the linear regression using gradient descent.
 5. Predict the value of y.
 6. Plot the graph respect to hours and scores using scatter plot function.
 ## Program:
-###
-Program to implement the linear regression using gradient descent.
-Developed by: Vamsi Reddy
-RegisterNumber: 212220040110 
-###
+
+### Program to implement the linear regression using gradient descent.
+### Developed by: Vamsi Reddy
+### RegisterNumber: 212220040110 
+
 
 ```python
 import numpy as np
